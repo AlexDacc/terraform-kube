@@ -1,3 +1,3 @@
-do_token="dop_v1_4efc48bcdab5c45472817c40c6f9b1f389304c6ac759cf0af1677e75590fc8a2"
+do_token="Exclui meu token"
 k8s_name="k8s-iniciativa-devops"
 region="nyc1"
